@@ -46,6 +46,8 @@ The [code]("cyclops_code/cyclops.py") can be run after updating the path for aud
 python3 cyclops.py
 ```
 
+For object detection pretrained models from [github repository of depthai](https://github.com/luxonis/depthai/blob/master/resources/nn/mobilenet-ssd/mobilenet-ssd.json#L22). The files have also been shared in the mobilenet-ssd folder.
+
 ## To Do List
 
 - [ ] **Improve Speech Understanding**
