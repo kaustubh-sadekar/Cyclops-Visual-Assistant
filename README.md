@@ -72,7 +72,7 @@ Presently the objects Cyclops can detect are limited to the object detection mod
 
 With a well designed robust pipeline, the functionality of text detection can also be incorporated. So the user can say, "Cyclops read me what you see," to read a book or some signs on the road.
 
-- [ ] **General Environment Update Functionality*
+- [ ] **General Environment Update Functionality**
 
 A custom model or the object detection model's predictions can be used to generate a general statement giving a Short summary of the world around the user. NLP based models can be used for more detailed summaries. So the user can ask - "Cyclops, what is going on around me," and custom audio could be generated that provides a summary of the surrounding environment.
 
