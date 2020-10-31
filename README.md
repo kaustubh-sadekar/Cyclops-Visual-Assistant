@@ -8,6 +8,9 @@
 
 Cyclops is a spatial AI based visual assistant. It is assembled in a device similar to a VR headset and allows the wearer to ask if any objects matching the speech input are found nearby and provides an active feedback when approaching found objects.
 
+**[Link to the demo video](https://www.youtube.com/watch?v=OEDmPRZ-ZPM&feature=youtu.be)**
+
+
 ## Problem Statement
 The overall problem statement consists of two main stages.
 
@@ -28,7 +31,6 @@ Refer the following scenario illustration for better understanding.
   <img width="250" src="images/illustrations.png">
 </p>
 
-
 ## Requirements
 
 Following python libraries need to be installed
@@ -47,6 +49,7 @@ python3 cyclops.py
 ```
 
 For object detection pretrained models from [github repository of depthai](https://github.com/luxonis/depthai/blob/master/resources/nn/mobilenet-ssd/mobilenet-ssd.json#L22). The files have also been shared in the mobilenet-ssd folder.
+
 
 ## To Do List
 
