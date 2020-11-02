@@ -6,8 +6,7 @@
   <img width="250" src="images/logo.jpg">
 </p>
 
-[![HitCount](http://hits.dwyl.io//kaustubh-sadekar/Cyclops-Visual-Assistant.svg)](http://hits.dwyl.io//kaustubh-sadekar/Cyclops-Visual-Assistant)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaustubh-sadekar%2FCyclops-Visual-Assistant&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Cyclops is a spatial AI based visual assistant. It is assembled in a device similar to a VR headset and allows the wearer to ask if any objects matching the speech input are found nearby and provides an active feedback when approaching found objects.
 
